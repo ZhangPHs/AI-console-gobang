@@ -1,2 +1,2 @@
 # AI-console-gobang
-console-gobang in
+console-gobang in Cpp
