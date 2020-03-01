@@ -1,7 +1,7 @@
 # AI-console-gobang
-console-gobang in Cpp
+console-gobang in Cpp ----- Bad experience.
 
-a stupid implement.
+a stupid way of implement.
 There are many lines of codes.
 
 Here is the source file.
